@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TDConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EndpointAddress>http://towerdefensewebapi2.azurewebsites.net/</EndpointAddress>
+  <TimerInterval>10000</TimerInterval>
+  <UserID>Player</UserID>
+</TDConfiguration>

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0309D3EC-E6EE-4A61-A30A-F5906B857C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerDefenseWebApi", "TowerDefenseWebApi\TowerDefenseWebApi.csproj", "{A978D73C-A157-424C-9B34-E0374E017EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWebApi", "UnitTestWebApi\UnitTestWebApi.csproj", "{AF53571E-EA7C-46AD-87A5-5C29E3F37CD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerDefenseTestModel", "..\TowerDefenseTestModel\TowerDefenseTestModel.csproj", "{E2573370-A0BE-4D5B-AECE-E0642B08F47C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerDefenseUnitTest", "..\TowerDefenseUnitTest\TowerDefenseUnitTest.csproj", "{A1022900-4886-4FCC-B30D-9CFB699A1662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0309D3EC-E6EE-4A61-A30A-F5906B857C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0309D3EC-E6EE-4A61-A30A-F5906B857C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0309D3EC-E6EE-4A61-A30A-F5906B857C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0309D3EC-E6EE-4A61-A30A-F5906B857C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A978D73C-A157-424C-9B34-E0374E017EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A978D73C-A157-424C-9B34-E0374E017EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A978D73C-A157-424C-9B34-E0374E017EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A978D73C-A157-424C-9B34-E0374E017EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF53571E-EA7C-46AD-87A5-5C29E3F37CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF53571E-EA7C-46AD-87A5-5C29E3F37CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF53571E-EA7C-46AD-87A5-5C29E3F37CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF53571E-EA7C-46AD-87A5-5C29E3F37CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2573370-A0BE-4D5B-AECE-E0642B08F47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2573370-A0BE-4D5B-AECE-E0642B08F47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2573370-A0BE-4D5B-AECE-E0642B08F47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2573370-A0BE-4D5B-AECE-E0642B08F47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1022900-4886-4FCC-B30D-9CFB699A1662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1022900-4886-4FCC-B30D-9CFB699A1662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1022900-4886-4FCC-B30D-9CFB699A1662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1022900-4886-4FCC-B30D-9CFB699A1662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TowerDefenseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TD_Player">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ordered" Type="Int32" />
+    <Property Name="OnStep" Type="Boolean" />
+    <Property Name="LoginTime" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="TowerDefenseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TD_Player" EntityType="Self.TD_Player" />
+    <EntitySet Name="TD_Game" EntityType="TowerDefenseModel.TD_Game" />
+    <EntitySet Name="TD_GameStep" EntityType="TowerDefenseModel.TD_GameStep" />
+  </EntityContainer>
+  <EntityType Name="TD_Game">
+    <Key>
+      <PropertyRef Name="GameId" />
+    </Key>
+    <Property Name="GameId" Type="Int32" Nullable="false" />
+    <Property Name="GameState" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="GameMapId" Type="Int32" />
+    <Property Name="StateCount" Type="Int32" Nullable="false" />
+    <Property Name="WinnerUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CalledUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TD_GameStep">
+    <Key>
+      <PropertyRef Name="StepId" />
+    </Key>
+    <Property Name="StepId" Type="Int32" Nullable="false" />
+    <Property Name="PositionX" Type="Int32" Nullable="false" />
+    <Property Name="PositionY" Type="Int32" Nullable="false" />
+    <Property Name="EntityType" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

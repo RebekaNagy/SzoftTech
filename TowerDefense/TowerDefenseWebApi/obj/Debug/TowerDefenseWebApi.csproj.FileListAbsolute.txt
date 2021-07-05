@@ -1,0 +1,310 @@
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\TowerDefenseWebApi.pdb
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\csc.exe
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\csc.exe.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\csc.rsp
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\csi.exe
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\csi.exe.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\csi.rsp
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Console.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\vbc.exe
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\vbc.rsp
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\EntityFramework.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Helpers.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Http.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Mvc.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Optimization.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Razor.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.WebPages.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\WebGrease.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\DAL.dll.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\EntityFramework.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Helpers.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Http.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Mvc.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Optimization.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.Razor.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.WebPages.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CopyComplete
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.pdb
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll.config
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\TowerDefenseWebApi.pdb
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Helpers.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Mvc.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Optimization.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Razor.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\WebGrease.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\DAL.dll.config
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Helpers.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Mvc.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Optimization.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Razor.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CopyComplete
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll.config
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\TowerDefenseWebApi.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\csc.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\csc.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\csc.rsp
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\csi.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\csi.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\csi.rsp
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Console.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\vbc.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\vbc.rsp
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\DAL.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Helpers.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Mvc.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Optimization.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Razor.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\WebGrease.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\DAL.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\DAL.dll.config
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Helpers.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Mvc.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Optimization.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.Razor.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CopyComplete
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll.config
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\TowerDefenseWebApi.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\csc.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\csc.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\csc.rsp
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\csi.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\csi.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\csi.rsp
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Console.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\vbc.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\vbc.rsp
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\DAL.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\EntityFramework.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Helpers.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Http.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Mvc.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Optimization.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Razor.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.WebPages.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\WebGrease.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\DAL.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\DAL.dll.config
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\EntityFramework.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Helpers.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Http.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Mvc.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Optimization.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.Razor.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.WebPages.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.csproj.CopyComplete
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\TowerDefenseWebApi\obj\Debug\TowerDefenseWebApi.pdb

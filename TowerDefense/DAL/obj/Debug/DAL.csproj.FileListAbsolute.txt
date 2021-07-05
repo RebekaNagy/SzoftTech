@@ -1,0 +1,52 @@
+C:\Users\Tábi Zoltán\Desktop\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tábi Zoltán\Desktop\DAL\bin\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\DAL\bin\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tábi Zoltán\Desktop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tábi Zoltán\Desktop\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tábi Zoltán\Desktop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tábi Zoltán\Desktop\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\Desktop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\Desktop\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tábi Zoltán\Desktop\DAL\obj\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\DAL\obj\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\bin\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\bin\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\obj\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\obj\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\Tower Defense\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\bin\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\bin\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\obj\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\DAL\obj\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\bin\Debug\DAL.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\bin\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\obj\Debug\DAL.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\obj\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\bin\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\bin\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\obj\Debug\DAL.dll
+C:\Users\Tábi Zoltán\Desktop\team_3\Tower Defense\DAL\obj\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\Tower Defense\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\bin\Debug\DAL.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\bin\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\obj\Debug\DAL.dll
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\obj\Debug\DAL.pdb
+C:\Users\Tábi Zoltán\source\repos\team_3\TowerDefense\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

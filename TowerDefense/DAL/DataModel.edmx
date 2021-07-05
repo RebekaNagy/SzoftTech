@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TowerDefenseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="TD_Game">
+          <Key>
+            <PropertyRef Name="GameId" />
+          </Key>
+          <Property Name="GameId" Type="int" Nullable="false" />
+          <Property Name="GameState" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="GameMapId" Type="int" />
+          <Property Name="StateCount" Type="int" Nullable="false" />
+          <Property Name="WinnerUser" Type="nvarchar" MaxLength="50" />
+          <Property Name="CalledUser" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TD_GameStep">
+          <Key>
+            <PropertyRef Name="StepId" />
+          </Key>
+          <Property Name="StepId" Type="int" Nullable="false" />
+          <Property Name="PositionX" Type="int" Nullable="false" />
+          <Property Name="PositionY" Type="int" Nullable="false" />
+          <Property Name="EntityType" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TD_Player">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Ordered" Type="int" />
+          <Property Name="OnStep" Type="bit" />
+          <Property Name="LoginTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="TowerDefenseModelStoreContainer">
+          <EntitySet Name="TD_Game" EntityType="Self.TD_Game" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TD_GameStep" EntityType="Self.TD_GameStep" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TD_Player" EntityType="Self.TD_Player" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TowerDefenseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="TD_Player">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Ordered" Type="Int32" />
+          <Property Name="OnStep" Type="Boolean" />
+          <Property Name="LoginTime" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityContainer Name="TowerDefenseEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="TD_Player" EntityType="Self.TD_Player" />
+          <EntitySet Name="TD_Game" EntityType="TowerDefenseModel.TD_Game" />
+          <EntitySet Name="TD_GameStep" EntityType="TowerDefenseModel.TD_GameStep" />
+        </EntityContainer>
+        <EntityType Name="TD_Game">
+          <Key>
+            <PropertyRef Name="GameId" />
+          </Key>
+          <Property Name="GameId" Type="Int32" Nullable="false" />
+          <Property Name="GameState" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="GameMapId" Type="Int32" />
+          <Property Name="StateCount" Type="Int32" Nullable="false" />
+          <Property Name="WinnerUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CalledUser" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="TD_GameStep">
+          <Key>
+            <PropertyRef Name="StepId" />
+          </Key>
+          <Property Name="StepId" Type="Int32" Nullable="false" />
+          <Property Name="PositionX" Type="Int32" Nullable="false" />
+          <Property Name="PositionY" Type="Int32" Nullable="false" />
+          <Property Name="EntityType" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TowerDefenseModelStoreContainer" CdmEntityContainer="TowerDefenseEntities">
+          <EntitySetMapping Name="TD_Player">
+            <EntityTypeMapping TypeName="TowerDefenseModel.TD_Player">
+              <MappingFragment StoreEntitySet="TD_Player">
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="Ordered" ColumnName="Ordered" />
+                <ScalarProperty Name="OnStep" ColumnName="OnStep" />
+                <ScalarProperty Name="LoginTime" ColumnName="LoginTime" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TD_Game">
+            <EntityTypeMapping TypeName="TowerDefenseModel.TD_Game">
+              <MappingFragment StoreEntitySet="TD_Game">
+                <ScalarProperty Name="CalledUser" ColumnName="CalledUser" />
+                <ScalarProperty Name="WinnerUser" ColumnName="WinnerUser" />
+                <ScalarProperty Name="StateCount" ColumnName="StateCount" />
+                <ScalarProperty Name="GameMapId" ColumnName="GameMapId" />
+                <ScalarProperty Name="GameState" ColumnName="GameState" />
+                <ScalarProperty Name="GameId" ColumnName="GameId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TD_GameStep">
+            <EntityTypeMapping TypeName="TowerDefenseModel.TD_GameStep">
+              <MappingFragment StoreEntitySet="TD_GameStep">
+                <ScalarProperty Name="EntityType" ColumnName="EntityType" />
+                <ScalarProperty Name="PositionY" ColumnName="PositionY" />
+                <ScalarProperty Name="PositionX" ColumnName="PositionX" />
+                <ScalarProperty Name="StepId" ColumnName="StepId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

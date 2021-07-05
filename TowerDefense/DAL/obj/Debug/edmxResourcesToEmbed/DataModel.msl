@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TowerDefenseModelStoreContainer" CdmEntityContainer="TowerDefenseEntities">
+    <EntitySetMapping Name="TD_Player">
+      <EntityTypeMapping TypeName="TowerDefenseModel.TD_Player">
+        <MappingFragment StoreEntitySet="TD_Player">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Ordered" ColumnName="Ordered" />
+          <ScalarProperty Name="OnStep" ColumnName="OnStep" />
+          <ScalarProperty Name="LoginTime" ColumnName="LoginTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TD_Game">
+      <EntityTypeMapping TypeName="TowerDefenseModel.TD_Game">
+        <MappingFragment StoreEntitySet="TD_Game">
+          <ScalarProperty Name="CalledUser" ColumnName="CalledUser" />
+          <ScalarProperty Name="WinnerUser" ColumnName="WinnerUser" />
+          <ScalarProperty Name="StateCount" ColumnName="StateCount" />
+          <ScalarProperty Name="GameMapId" ColumnName="GameMapId" />
+          <ScalarProperty Name="GameState" ColumnName="GameState" />
+          <ScalarProperty Name="GameId" ColumnName="GameId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TD_GameStep">
+      <EntityTypeMapping TypeName="TowerDefenseModel.TD_GameStep">
+        <MappingFragment StoreEntitySet="TD_GameStep">
+          <ScalarProperty Name="EntityType" ColumnName="EntityType" />
+          <ScalarProperty Name="PositionY" ColumnName="PositionY" />
+          <ScalarProperty Name="PositionX" ColumnName="PositionX" />
+          <ScalarProperty Name="StepId" ColumnName="StepId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

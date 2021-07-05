@@ -1,0 +1,2 @@
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\obj\Release\TowerDefenseWebApi.csprojAssemblyReference.cache
+C:\Users\Tábi Zoltán\Desktop\Tower Defense Szerver\TowerDefenseWebApi\obj\Release\TowerDefenseWebApi.csproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TDConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Binding>
+    <CloseTimeout>10</CloseTimeout>
+    <OpenTimeout>10</OpenTimeout>
+    <ReceiveTimeout>10</ReceiveTimeout>
+    <SendTimeout>10</SendTimeout>
+    <MaxBufferPoolSize>2147483647</MaxBufferPoolSize>
+    <MaxReceivedMessageSize>2147483647</MaxReceivedMessageSize>
+    <ReaderQuotas>
+      <MaxDepth>128</MaxDepth>
+      <MaxStringContentLength>2147483647</MaxStringContentLength>
+      <MaxArrayLength>2147483647</MaxArrayLength>
+      <MaxBytesPerRead>2147483647</MaxBytesPerRead>
+      <MaxNameTableCharCount>2147483647</MaxNameTableCharCount>
+    </ReaderQuotas>
+  </Binding>
+  <EndpointAddress>http://towerdefensewcfservice.azurewebsites.net/TowerDefenseService.svc</EndpointAddress>
+  <TimerInterval>1000</TimerInterval>
+  <UserID>Zoli</UserID>
+</TDConfiguration>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TowerDefenseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TD_Game">
+    <Key>
+      <PropertyRef Name="GameId" />
+    </Key>
+    <Property Name="GameId" Type="int" Nullable="false" />
+    <Property Name="GameState" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="GameMapId" Type="int" />
+    <Property Name="StateCount" Type="int" Nullable="false" />
+    <Property Name="WinnerUser" Type="nvarchar" MaxLength="50" />
+    <Property Name="CalledUser" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TD_GameStep">
+    <Key>
+      <PropertyRef Name="StepId" />
+    </Key>
+    <Property Name="StepId" Type="int" Nullable="false" />
+    <Property Name="PositionX" Type="int" Nullable="false" />
+    <Property Name="PositionY" Type="int" Nullable="false" />
+    <Property Name="EntityType" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TD_Player">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ordered" Type="int" />
+    <Property Name="OnStep" Type="bit" />
+    <Property Name="LoginTime" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TowerDefenseModelStoreContainer">
+    <EntitySet Name="TD_Game" EntityType="Self.TD_Game" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TD_GameStep" EntityType="Self.TD_GameStep" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TD_Player" EntityType="Self.TD_Player" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

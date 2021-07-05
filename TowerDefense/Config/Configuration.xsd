@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xsd:element name="TDConfiguration">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Binding">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="CloseTimeout" type="xsd:int" />
+              <xsd:element name="OpenTimeout" type="xsd:int" />
+              <xsd:element name="ReceiveTimeout" type="xsd:int" />
+              <xsd:element name="SendTimeout" type="xsd:int" />
+              <xsd:element name="MaxBufferPoolSize" type="xsd:long" />
+              <xsd:element name="MaxReceivedMessageSize" type="xsd:long" />
+              <xsd:element name="ReaderQuotas">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="MaxDepth" type="xsd:int" />
+                    <xsd:element name="MaxStringContentLength" type="xsd:int" />
+                    <xsd:element name="MaxArrayLength" type="xsd:int" />
+                    <xsd:element name="MaxBytesPerRead" type="xsd:int" />
+                    <xsd:element name="MaxNameTableCharCount" type="xsd:int" />
+                  </xsd:sequence>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+        <xsd:element name="EndpointAddress" type="xsd:string" />
+        <xsd:element name="TimerInterval" type="xsd:int" />
+        <xsd:element name="UserID" type="xsd:string" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xs:schema>
